@@ -9,7 +9,7 @@ public class CalculadoraCientifica {
         System.out.println(Math.pow(i1, d1));
     }
     public void raiz (int i1){
-        System.out.println(Math.sqrt(Double.parseDouble(i1)));
+        System.out.println(Math.sqrt((Double)(i1));
     }
     public void raiz (double d1){
         System.out.println(Math.sqrt(d1));
